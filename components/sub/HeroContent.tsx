@@ -1,5 +1,5 @@
 'use client'
-import Link from 'next/link'
+
 import React from 'react'
 import {motion} from 'framer-motion'
 import { slideInFromLeft, slideInFromRight, slideInFromTop } from '@/utils/motion'
@@ -44,7 +44,7 @@ const HeroContent = () => {
         variants = {slideInFromLeft(0.8)}
         className="text-lg text-gray-400 my-5 max-w-[600px]">
 
-                I'm a Fullstack developer specializing in building exceptional digital experiences using modern web technologies.
+                I'm Shashwat, a Full-stack developer specializing in building exceptional digital experiences using modern web technologies.
 
 
         </motion.p>
