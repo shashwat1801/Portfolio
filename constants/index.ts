@@ -83,13 +83,13 @@ export const Skill_data = [
   export const Socials = [
     {
       name: "LinkedIn",
-      src: "/Linkedin.png",
+      src: "/linkedin.png",
       href : 'https://www.linkedin.com/in/shashwat-kaundal-32583130b/',
 
     },
     {
       name: "Github",
-      src: "/gitWhite.png",
+      src: "/gitwhite.png",
       href : 'https://github.com/shashwat1801'
     },
     {
