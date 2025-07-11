@@ -1,4 +1,3 @@
-Shashwat's Portfolio
 Hey! 👋 This is the source code for my personal developer portfolio. It’s a place where I showcase my projects, skills, and what I’m currently working on.
 
 🌐 Live Website
