@@ -15,14 +15,20 @@ How to Run Locally
 If you’d like to see how it’s built or want to customize it:
 
 bash
+
 Copy
+
 Edit
+
 git clone https://github.com/shashwat1801/Portfolio.git
+
 cd Portfolio
+
 npm install
+
 npm run dev
-Then visit:
-http://localhost:3000
+
+Then visit: http://localhost:3000
 
 Reason for me make this.
 I wanted a clean, minimal portfolio that highlights my frontend skills without overcomplicating things. Built it using the tools I enjoy working with—Next.js, Tailwind, and a bit of motion for that smooth feel.
