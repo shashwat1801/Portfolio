@@ -44,7 +44,7 @@ const HeroContent = () => {
         variants = {slideInFromLeft(0.8)}
         className="text-lg text-gray-400 my-5 max-w-[600px]">
 
-                I&apos;m Shashwat, a Full-stack developer specializing in building exceptional digital experiences using modern web technologies.
+                I&apos;m Shashwat, a Full-stack developer specialized in building exceptional digital experiences using modern web technologies.
 
 
         </motion.p>
@@ -56,7 +56,7 @@ const HeroContent = () => {
         role = "button"
         tabIndex={0}
         >
-            Connect via
+            Connect
             
         </motion.a>
         </div>
